@@ -6,7 +6,7 @@ This repo contains submissions for the Expositions Assignment, for the course of
 cuDF is a Python library that works like pandas, but runs on the GPU instead of the CPU. It’s great for handling large datasets quickly. With cuDF, you can load, filter, join, and manipulate data much faster — especially when using large CSVs or running complex operations. It’s part of the RAPIDS AI ecosystem developed by NVIDIA.
 
 Here, I have included: 
-* A jupyter Notebook
+* A jupyter Notebook `assignment_psdv.ipynb`
 * A blog
   
 Video Link: https://www.youtube.com/watch?v=6Z3iHmoNZZU
